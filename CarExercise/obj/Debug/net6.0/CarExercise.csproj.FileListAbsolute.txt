@@ -1,0 +1,15 @@
+C:\Users\heigh\Desktop\Repos\CarExercise\CarExercise\bin\Debug\net6.0\CarExercise.exe
+C:\Users\heigh\Desktop\Repos\CarExercise\CarExercise\bin\Debug\net6.0\CarExercise.deps.json
+C:\Users\heigh\Desktop\Repos\CarExercise\CarExercise\bin\Debug\net6.0\CarExercise.runtimeconfig.json
+C:\Users\heigh\Desktop\Repos\CarExercise\CarExercise\bin\Debug\net6.0\CarExercise.dll
+C:\Users\heigh\Desktop\Repos\CarExercise\CarExercise\bin\Debug\net6.0\CarExercise.pdb
+C:\Users\heigh\Desktop\Repos\CarExercise\CarExercise\obj\Debug\net6.0\CarExercise.csproj.AssemblyReference.cache
+C:\Users\heigh\Desktop\Repos\CarExercise\CarExercise\obj\Debug\net6.0\CarExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heigh\Desktop\Repos\CarExercise\CarExercise\obj\Debug\net6.0\CarExercise.AssemblyInfoInputs.cache
+C:\Users\heigh\Desktop\Repos\CarExercise\CarExercise\obj\Debug\net6.0\CarExercise.AssemblyInfo.cs
+C:\Users\heigh\Desktop\Repos\CarExercise\CarExercise\obj\Debug\net6.0\CarExercise.csproj.CoreCompileInputs.cache
+C:\Users\heigh\Desktop\Repos\CarExercise\CarExercise\obj\Debug\net6.0\CarExercise.dll
+C:\Users\heigh\Desktop\Repos\CarExercise\CarExercise\obj\Debug\net6.0\refint\CarExercise.dll
+C:\Users\heigh\Desktop\Repos\CarExercise\CarExercise\obj\Debug\net6.0\CarExercise.pdb
+C:\Users\heigh\Desktop\Repos\CarExercise\CarExercise\obj\Debug\net6.0\CarExercise.genruntimeconfig.cache
+C:\Users\heigh\Desktop\Repos\CarExercise\CarExercise\obj\Debug\net6.0\ref\CarExercise.dll
